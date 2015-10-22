@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main(int nNumberofArgs, char* pszArgs[]){
-    const int size =66;
+    const int size =69;
     int arrPeriods[size];
     for(int i=0; i<size; i++){
 
@@ -81,6 +81,9 @@ arrFactAssets[63]  = 74.900522;
 arrFactAssets[64]  = 74.304439;
 arrFactAssets[65]  = 74.702443;
 arrFactAssets[66]  = 74.950778;
+arrFactAssets[67]  = 81.991604;
+arrFactAssets[68]  = 74.127276;
+
 
 
     double arrTrend[size];
